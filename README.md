@@ -1,4 +1,4 @@
-### ✅ Summary of Expected Outputs
+### ✅ Summary of Expected Outputs: `einsum_adv.py`
 
 | Example | Operation             | Output Shape/Value    | Notes                     |
 |---------|-----------------------|------------------------|---------------------------|
